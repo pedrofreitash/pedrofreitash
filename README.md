@@ -1,24 +1,23 @@
-<h1 align="center">Olá! 👋 Me chamo Pedro Freitas</h1>
+# 👨‍💻 Data Engineer
 
-<p align="center">
-  👨‍💻 Data Engineer
-</p>
-
----
+## 🚀 Sobre mim
+Sou apaixonado por dados e tecnologia, com experiência em construção de pipelines de dados, modelagem de banco de dados e automação de processos.
+Tenho interesse em:
+- Big Data
+- Engenharia de Dados em Nuvem
+- Arquiteturas Escaláveis
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,linux,aws,docker,windows,git,github,md,mongodb)](https://skillicons.dev)
 
----
+***
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedrofreitash/)
-- 📧 Email: ph.04freitas@gmail.com
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedrofreitash/)
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:ph.04freitas@gmail.com)
 
----
+***
 
 <p align="center">Obrigado por visitar meu perfil! 🚀</p>

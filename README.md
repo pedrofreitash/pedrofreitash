@@ -1,22 +1,38 @@
-# 👨‍💻 DevOps
-
 ## 🚀 Sobre mim
-Sou apaixonado por automação, integração e infraestrutura escalável, com sólida experiência em suporte técnico, desenvolvimento de scripts eficientes e gestão de ambientes complexos. 
-Meu foco é unir desenvolvimento e operações para acelerar entregas, garantir qualidade e promover inovação contínua.
+Sou um desenvolvedor com foco em **Ruby on Rails**, apaixonado por construir aplicações e novos desafios.
 
-## Tenho interesse em:
+Estou aprofundando meus conhecimentos em desenvolvimento backend.
 
-- Infraestrutura como Código (IaC)
+---
 
-- Contêineres e Orquestração (Docker, Kubernetes)
+## 💻 Stack principal
+- Ruby on Rails
+- Ruby
+- PostgreSQL
+- REST APIs
+- HTML, CSS, JavaScript
 
-- CI/CD e Automação de Pipeline
+---
 
-- Monitoramento e Cloud Computing (AWS)
+## 💡 Foco atual
+- Desenvolvimento de aplicações web com Ruby on Rails
+- Criação e consumo de APIs REST
+
+---
+
+## ⚙️ Interesses técnicos
+- CI/CD e automação de pipelines
+- Docker
+- Cloud Computing (AWS)
+- Monitoramento e observabilidade
+- Integração entre sistemas
+
+---
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,windows,powershell,docker,aws,git,github,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,aws,git,github,python,ruby,rails,postgres)](https://skillicons.dev)
 
 ***
 

@@ -5,21 +5,6 @@ Estou aprofundando meus conhecimentos em desenvolvimento backend.
 
 ---
 
-## 💻 Stack principal
-- Ruby on Rails
-- Ruby
-- PostgreSQL
-- REST APIs
-- HTML, CSS, JavaScript
-
----
-
-## 💡 Foco atual
-- Desenvolvimento de aplicações web com Ruby on Rails
-- Criação e consumo de APIs REST
-
----
-
 ## ⚙️ Interesses técnicos
 - CI/CD e automação de pipelines
 - Docker
@@ -28,13 +13,6 @@ Estou aprofundando meus conhecimentos em desenvolvimento backend.
 - Integração entre sistemas
 
 ---
-
-
-## 🛠️ Tecnologias & Ferramentas
-
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,aws,git,github,python,ruby,rails,postgres)](https://skillicons.dev)
-
-***
 
 ## 📫 Contato
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedrofreitash/)

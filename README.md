@@ -1,16 +1,7 @@
 ## 🚀 Sobre mim
-Sou um desenvolvedor com foco em **Ruby on Rails**, apaixonado por construir aplicações e novos desafios.
+Sou um desenvolvedor com foco em **Java**, apaixonado por construir aplicações e novos desafios.
 
 Estou aprofundando meus conhecimentos em desenvolvimento backend.
-
----
-
-## ⚙️ Interesses técnicos
-- CI/CD e automação de pipelines
-- Docker
-- Cloud Computing (AWS)
-- Monitoramento e observabilidade
-- Integração entre sistemas
 
 ---
 
